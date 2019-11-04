@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=multiArray	#P2#=Protium/JSON/multiArray	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027184147	#P7#=0	#P8#=0	.
+2=#P0#=mb	#P1#=Encode	#P2#=Protium/JSON/Encode	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027184004	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=toString	#P2#=Protium/JSON/toString	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027183828	#P7#=0	#P8#=51	.
+4=#P0#=mb	#P1#=TheString	#P2#=Protium/cStringBuilder/TheString [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20121027183519	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=toString	#P2#=Protium/cStringBuilder/toString [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20121027183415	#P7#=0	#P8#=7	.
+6=#P0#=mb	#P1#=skipChar	#P2#=Protium/JSON/skipChar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027183408	#P7#=0	#P8#=52	.
+7=#P0#=mb	#P1#=parse	#P2#=Protium/JSON/parse	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027183348	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=parseValue	#P2#=Protium/JSON/parseValue	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027183357	#P7#=0	#P8#=24	.
+9=#P0#=mb	#P1#=Clear	#P2#=Protium/cStringBuilder/Clear	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027183047	#P7#=0	#P8#=4	.
+10=#P0#=mb	#P1#=ClearParserErrors	#P2#=Protium/JSON/ClearParserErrors	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027182828	#P7#=0	#P8#=0	.
+11=#P0#=mb	#P1#=StringToJSON	#P2#=Protium/JSON/StringToJSON	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027182709	#P7#=0	#P8#=18	.
+12=#P0#=mb	#P1#=toUnicode	#P2#=Protium/JSON/toUnicode	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20121027182610	#P7#=0	#P8#=-1	.
